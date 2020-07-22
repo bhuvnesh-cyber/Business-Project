@@ -1,5 +1,7 @@
 # Business-Projects
 
+![business](https://user-images.githubusercontent.com/57914889/88213527-7c30c680-cc76-11ea-90df-e193e5c1616d.jpg)
+
 The project aimed at applying data science techniques to the following 4 departments: 
 (1) Human Resources
 (2) Marketing
@@ -20,6 +22,8 @@ The project aimed at applying data science techniques to the following 4 departm
 ## Data-set examination
 
 ### Human Resources Department
+
+![human](https://user-images.githubusercontent.com/57914889/88213534-7dfa8a00-cc76-11ea-8793-074a063bcad2.jpg)
 
 ### AIM: 
 Hiring and retaining employees are extremely complex tasks that require capital, time and skills, Small business owners spend 40% of their working hours on tasks that do not generate any income such as hiring. Develop a model that could predict which employees are more likely to quit. 
@@ -52,6 +56,8 @@ Hiring and retaining employees are extremely complex tasks that require capital,
 
 ### Marketing Department
 
+![marketing](https://user-images.githubusercontent.com/57914889/88213545-7fc44d80-cc76-11ea-8b6a-d7204b1621a4.png)
+
 ### AIM:
 Marketing is crucial for the growth and sustainability of any business, Marketers can help build the company’s brand, engage customers, grow revenue, and increase sales.
 This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
@@ -74,6 +80,8 @@ This case requires to develop a customer segmentation to define marketing strate
 
 ### Sales Department
 
+![sales](https://user-images.githubusercontent.com/57914889/88213559-8357d480-cc76-11ea-86b6-7e84c7d2be9d.jpg)
+
 ### AIM:
 We are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. Note that some stores in the dataset were temporarily closed for refurbishment.
   
@@ -93,6 +101,8 @@ We are provided with historical sales data for 1,115 Rossmann stores. The task i
 ![Capture22](https://user-images.githubusercontent.com/57914889/88211954-15121280-cc74-11ea-9ca3-7be544d49882.PNG)
 
 ### Public Relations Department
+
+![pubrela](https://user-images.githubusercontent.com/57914889/88213556-82bf3e00-cc76-11ea-9e41-6c3b6c5c9bd3.jpg)
 
 ### AIM:
 This dataset consists of a nearly 3000 Amazon customer reviews (input text), star ratings, date of review, variant and feedback of various amazon Alexa products like Alexa Echo, Echo dots, Alexa Firesticks etc. for learning how to train Machine for sentiment analysis.
@@ -117,23 +127,37 @@ This dataset consists of a nearly 3000 Amazon customer reviews (input text), sta
 ## Logistic regression
 Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).  Like all regression analyses, the logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
 
+![Logit](https://user-images.githubusercontent.com/57914889/88213542-7e932080-cc76-11ea-8455-a5e857996453.png)
+
 ## Random forest
 The random forest is a supervised learning algorithm that randomly creates and merges multiple decision trees into one “forest.” The goal is not to rely on a single learning model, but rather a collection of decision models to improve accuracy. The primary difference between this approach and the standard decision tree algorithms is that the root nodes feature splitting nodes are generated randomly.
+
+![randomfor](https://user-images.githubusercontent.com/57914889/88213558-82bf3e00-cc76-11ea-8d20-b34823138d48.jpg)
 
 ## K-means clustering
 k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells. It is popular for cluster analysis in data mining. k-means clustering minimizes within-cluster variances (squared Euclidean distances), but not regular Euclidean distances, which would be the more difficult Weber problem: the mean optimizes squared errors, whereas only the geometric median minimizes Euclidean distances. For instance, better Euclidean solutions can be found using k-medians and k-medoids.
 
+![kmeans](https://user-images.githubusercontent.com/57914889/88213538-7e932080-cc76-11ea-99b1-2410b8a6762f.png)
+
 ## Neural network
 A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria. The concept of neural networks, which has its roots in artificial intelligence, is swiftly gaining popularity in the development of trading systems.
+
+![neural](https://user-images.githubusercontent.com/57914889/88213547-7fc44d80-cc76-11ea-998c-27b859fe13f2.png)
 
 ## Principal component analysis (PCA)
 Given a collection of points in two, three, or higher dimensional space, a "best fitting" line can be defined as one that minimizes the average squared distance from a point to the line. The next best-fitting line can be similarly chosen from directions perpendicular to the first. Repeating this process yields an orthogonal basis in which different individual dimensions of the data are uncorrelated. These basis vectors are called principal components, and several related procedures principal component analysis (PCA).
 
+![pca](https://user-images.githubusercontent.com/57914889/88213553-818e1100-cc76-11ea-9a52-f2d57796837b.png)
+
 ## Natural language processing (NLP)
 Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation.
 
+![nlp](https://user-images.githubusercontent.com/57914889/88213549-80f57a80-cc76-11ea-9163-44d4ffbdb731.jpg)
+
 ## Facebook Prophet
 Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
+
+![prophet](https://user-images.githubusercontent.com/57914889/88213554-8226a780-cc76-11ea-9a84-b3242fe4b7a8.png)
 
 # Working enviroment
 Google Colab
