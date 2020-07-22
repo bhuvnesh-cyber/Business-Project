@@ -47,6 +47,8 @@ Hiring and retaining employees are extremely complex tasks that require capital,
 
 * Evaluate classification models and present results using confusion matrix and classification reports and understand the difference between precision recall and F1 score.
 
+![](images/Capture66.png)
+
 ### Marketing Department
 
 ### AIM:
