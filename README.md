@@ -47,7 +47,8 @@ Hiring and retaining employees are extremely complex tasks that require capital,
 
 * Evaluate classification models and present results using confusion matrix and classification reports and understand the difference between precision recall and F1 score.
 
- ![](images/Capture66.png)
+
+![Capture66](https://user-images.githubusercontent.com/57914889/88211970-1c392080-cc74-11ea-9553-f42b161a3c9a.PNG)
 
 ### Marketing Department
 
@@ -68,6 +69,9 @@ This case requires to develop a customer segmentation to define marketing strate
 
 * Applied PCA to perform dimensionality reduction using real world data set.
 
+
+![Capture33](https://user-images.githubusercontent.com/57914889/88211969-1ba08a00-cc74-11ea-9e76-8eb6eafdc2d8.PNG)
+
 ### Sales Department
 
 ### AIM:
@@ -86,6 +90,8 @@ We are provided with historical sales data for 1,115 Rossmann stores. The task i
 
 * Predict future Weekly monthly and yearly trends.
 
+![Capture22](https://user-images.githubusercontent.com/57914889/88211954-15121280-cc74-11ea-9ca3-7be544d49882.PNG)
+
 ### Public Relations Department
 
 ### AIM:
@@ -103,6 +109,8 @@ This dataset consists of a nearly 3000 Amazon customer reviews (input text), sta
 * Understand the difference between likelihood prior probability and marginal likelihood.
 
 * Train a logistic regression classifier to make predictions on encoded text data.
+
+![Capture31](https://user-images.githubusercontent.com/57914889/88211962-180d0300-cc74-11ea-98c9-769323804763.PNG)
 
 # Theory
 
