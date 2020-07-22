@@ -1,4 +1,4 @@
-# Business-Project
+# Business-Projects
 
 The project aimed at applying data science techniques to the following 4 departments: 
 (1) Human Resources
@@ -100,7 +100,9 @@ This dataset consists of a nearly 3000 Amazon customer reviews (input text), sta
 
 * Understand the difference between likelihood prior probability and marginal likelihood.
 
-* Train a logistic regression classifier to make predictions on encoded text data
+* Train a logistic regression classifier to make predictions on encoded text data.
+
+# Theory
 
 ## Logistic regression
 Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).  Like all regression analyses, the logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
