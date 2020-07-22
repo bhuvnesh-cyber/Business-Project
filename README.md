@@ -6,19 +6,16 @@ The project aimed at applying data science techniques to the following 4 departm
 (3) Sales
 (4) Public Relations
 
-Task #1 @Human Resources Department: Develop an AI model to Reduce hiring and training costs of employees by predicting which employees might leave the company.
-Task #2 @Marketing Department: Optimize marketing strategy by performing customer segmentation
-Task #3 @Sales Department: Develop time series forecasting models to predict future product prices.
-Task #5 @Public Relations Department: Develop Natural Language Processing Models to analyze customer reviews on social media and identify customers sentiment.
-Data-set examination
+* Human Resources Department: Develop an AI model to Reduce hiring and training costs of employees by predicting which employees might leave the company.
+* Marketing Department: Optimize marketing strategy by performing customer segmentation
+* Sales Department: Develop time series forecasting models to predict future product prices.
+* Public Relations Department: Develop Natural Language Processing Models to analyze customer reviews on social media and identify customers sentiment.
 
 ## Learning Outcomes
-Develop an AI model to Reduce hiring and training costs of employees by predicting which employees might leave the company.
-Develop Deep Learning model to automate and optimize the disease detection processes at a hospital.
-Develop time series forecasting models to predict future product prices.
-Develop defect detection, classification and localization models.
-Optimize marketing strategy by performing customer segmentation
-Develop Natural Language Processing Models to analyze customer reviews on social media and identify customers sentiment.
+* Develop an AI model to Reduce hiring and training costs of employees by predicting which employees might leave the company.
+* Develop time series forecasting models to predict future product prices.
+* Optimize marketing strategy by performing customer segmentation
+* Develop Natural Language Processing Models to analyze customer reviews on social media and identify customers sentiment.
 
 ## Data-set examination
 
@@ -35,14 +32,14 @@ PerformanceRating
 RelationshipSatisfaction
 WorkLifeBalance
 
-⋅⋅* First understood how to leverage the power of data science to reduce employees turnover and transform human resources department.
+* First understood how to leverage the power of data science to reduce employees turnover and transform human resources department.
 
-⋅⋅* Second understood the theory behind logistic regression and random forest classifiers train in logistic regression classifier
+* Second understood the theory behind logistic regression and random forest classifiers train in logistic regression classifier
 and random forest classified models using cycle learn apply Sigmoid functions to obtain probability load and manipulate data set
 using Panda's dataframe develop a function in Python and apply it to append this data frame perform exploratory data analysis using Matplotlib and seaborn 
 libraries plot kernel density estimate plots or K the E4 short box plots and count plots convert categorical variables into dummy variables.
 
-⋅⋅* Learn understand the theory and intuition behind artificial neural networks and how to apply them to
+* Learn understand the theory and intuition behind artificial neural networks and how to apply them to
 perform classification tests evaluate classification models and present results using confusion matrix
 and classification reports and understand the difference between precision recall and F1 score.
 
