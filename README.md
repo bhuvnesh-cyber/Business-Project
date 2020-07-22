@@ -2,7 +2,7 @@
 
 ![business](https://user-images.githubusercontent.com/57914889/88213527-7c30c680-cc76-11ea-90df-e193e5c1616d.jpg)
 
-The project aimed at applying data science techniques to the following 4 departments: 
+These projects are aimed at applying data science techniques to the following 4 departments through different datasets from kaggle: 
 (1) Human Resources
 (2) Marketing
 (3) Sales
@@ -27,6 +27,8 @@ The project aimed at applying data science techniques to the following 4 departm
 
 ### AIM: 
 Hiring and retaining employees are extremely complex tasks that require capital, time and skills, Small business owners spend 40% of their working hours on tasks that do not generate any income such as hiring. Develop a model that could predict which employees are more likely to quit. 
+
+Link to dataset : https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ### Apporach:
 * First understood how to leverage the power of data science to reduce employees turnover and transform human resources department.
@@ -61,6 +63,8 @@ Hiring and retaining employees are extremely complex tasks that require capital,
 ### AIM:
 Marketing is crucial for the growth and sustainability of any business, Marketers can help build the company’s brand, engage customers, grow revenue, and increase sales.
 This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
+
+Link to dataset : https://www.kaggle.com/arjunbhasin2013/ccdata
   
 ### Apporach:
 * Understood how to leverage the power of data science to perform market segmentation and perform exploratory data analysis and visualize customers data set.
@@ -84,6 +88,8 @@ This case requires to develop a customer segmentation to define marketing strate
 
 ### AIM:
 We are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. Note that some stores in the dataset were temporarily closed for refurbishment.
+
+Link to dataset : https://www.kaggle.com/c/rossmann-store-sales/data
   
 ### Apporach:
 * Understood how to leverage the power of data science to predict future product sales.
@@ -106,6 +112,8 @@ We are provided with historical sales data for 1,115 Rossmann stores. The task i
 
 ### AIM:
 This dataset consists of a nearly 3000 Amazon customer reviews (input text), star ratings, date of review, variant and feedback of various amazon Alexa products like Alexa Echo, Echo dots, Alexa Firesticks etc. for learning how to train Machine for sentiment analysis.
+
+Link to dataset : https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
   
 ### Apporach:
 * Learned how to leverage the power of data science to deal with text data perform exploratory data analysis and learn how to create world cloud visualizations.
