@@ -31,6 +31,11 @@ Natural language processing (NLP) is a subfield of linguistics, computer science
 
 ![nlp](https://user-images.githubusercontent.com/57914889/88213549-80f57a80-cc76-11ea-9163-44d4ffbdb731.jpg)
 
+## Logistic regression
+Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).  Like all regression analyses, the logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
+
+![Logit](https://user-images.githubusercontent.com/57914889/88213542-7e932080-cc76-11ea-8455-a5e857996453.png)
+
 # Working enviroment
 Jupyter Notebook
   - Keras 2.1.6
