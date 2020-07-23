@@ -47,6 +47,11 @@ The random forest is a supervised learning algorithm that randomly creates and m
 
 ![randomfor](https://user-images.githubusercontent.com/57914889/88213558-82bf3e00-cc76-11ea-8d20-b34823138d48.jpg)
 
+## Neural network
+A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature. Neural networks can adapt to changing input; so the network generates the best possible result without needing to redesign the output criteria. The concept of neural networks, which has its roots in artificial intelligence, is swiftly gaining popularity in the development of trading systems.
+
+![neural](https://user-images.githubusercontent.com/57914889/88213547-7fc44d80-cc76-11ea-998c-27b859fe13f2.png)
+
 # Working enviroment
 Jupyter Notebook
   - Keras 2.1.6
