@@ -96,7 +96,7 @@ Link to dataset : https://www.kaggle.com/c/rossmann-store-sales/data
 
 * Understood the theory and intuition behind time series forecasting models.
 
-* Understand the concept of additive regression.
+* Understood the concept of additive regression.
 
 * Listed the advantages of Facebook prophet.
 
@@ -120,13 +120,13 @@ Link to dataset : https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
 
 * Learn the basics of natural language processing.
 
-* Apply natural language processing toolkit.
+* Applied natural language processing toolkit.
 
-* Apply feature extraction using count vectors to understand the theory behind naive based classifiers.
+* Applied feature extraction using count vectors to understand the theory behind naive based classifiers.
 
-* Understand the difference between likelihood prior probability and marginal likelihood.
+* Understood the difference between likelihood prior probability and marginal likelihood.
 
-* Train a logistic regression classifier to make predictions on encoded text data.
+* Trained a logistic regression classifier to make predictions on encoded text data.
 
 ![Capture31](https://user-images.githubusercontent.com/57914889/88211962-180d0300-cc74-11ea-98c9-769323804763.PNG)
 
