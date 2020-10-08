@@ -27,5 +27,13 @@ Tried to analyse the Data and answer following Questions:
 
 Answered all these Questions using plots, SQL Queries and Tableau Dashboard.
 
-
+# Working enviroment
+Jupyter Notebook
+  - Python 3
+  - Matplotlib
+  - Seaborn
+  - SQL
+  - Tableau
+  - Pandasql
+  
 
