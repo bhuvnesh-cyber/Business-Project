@@ -2,14 +2,14 @@
 
 ![Udemy3](https://user-images.githubusercontent.com/57914889/95457350-5d48f300-098e-11eb-80b9-6f3497b76467.PNG)
 
-### AIM: 
+# AIM
 To perform in-depth analysis of udemy courses from 2014 to 2017 Using Python(Pandas, Matplotlib, Seaborn), SQL and Tableau.
 
 Link to dataset : https://www.kaggle.com/andrewmvd/udemy-courses
 
 Tableau Viz - https://public.tableau.com/profile/bhuvnesh.sharma4935#!/vizhome/UdemyCoursesAnalysis/Dashboard1
 
-# Apporach:
+# Apporach
 
 Tried to analyse the Data and answer following Questions:
 
