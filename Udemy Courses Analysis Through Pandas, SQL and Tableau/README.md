@@ -7,6 +7,8 @@ To perform in-depth analysis of udemy courses from 2014 to 2017 Using Python(Pan
 
 Link to dataset : https://www.kaggle.com/andrewmvd/udemy-courses
 
+Tableau Viz - https://public.tableau.com/profile/bhuvnesh.sharma4935#!/vizhome/UdemyCoursesAnalysis/Dashboard1
+
 # Apporach:
 
 Tried to analyse the Data and answer following Questions:
@@ -32,6 +34,10 @@ Answered all these Questions using plots, SQL Queries and Tableau Dashboard.
 ![Udemy2](https://user-images.githubusercontent.com/57914889/95457341-5ae69900-098e-11eb-8bf7-88f388bc4b48.PNG)
 
 ![Udemy1](https://user-images.githubusercontent.com/57914889/95457336-58843f00-098e-11eb-8073-6c4b11e0410c.PNG)
+
+![Udemy5](https://user-images.githubusercontent.com/57914889/95457712-ea8c4780-098e-11eb-80e3-fbe6f12f526f.PNG)
+
+![Udemy4](https://user-images.githubusercontent.com/57914889/95457705-e6f8c080-098e-11eb-83ce-4affd99e001b.PNG)
 
 # Working enviroment
 Jupyter Notebook
