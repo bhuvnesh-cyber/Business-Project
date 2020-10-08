@@ -1,4 +1,4 @@
-# Business-Projects
+# Projects
 
 ![business](https://user-images.githubusercontent.com/57914889/88213527-7c30c680-cc76-11ea-90df-e193e5c1616d.jpg)
 
@@ -8,10 +8,6 @@ These projects are aimed at applying data science techniques to the following 4 
 (3) Sales
 (4) Public Relations
 
-* Human Resources Department: Develop an AI model to Reduce hiring and training costs of employees by predicting which employees might leave the company.
-* Marketing Department: Optimize marketing strategy by performing customer segmentation.
-* Sales Department: Develop time series forecasting models to predict future product prices.
-* Public Relations Department: Develop Natural Language Processing Models to analyze customer reviews on social media and identify customers sentiment.
 
 ## Learning Outcomes
 * Develop an AI model to Reduce hiring and training costs of employees by predicting which employees might leave the company.
@@ -21,7 +17,7 @@ These projects are aimed at applying data science techniques to the following 4 
 
 ## Data-set examination
 
-### Human Resources Department
+### Human Resources Project
 
 ![human](https://user-images.githubusercontent.com/57914889/88213534-7dfa8a00-cc76-11ea-8793-074a063bcad2.jpg)
 
@@ -56,7 +52,7 @@ Link to dataset : https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attritio
 
 ![Capture66](https://user-images.githubusercontent.com/57914889/88211970-1c392080-cc74-11ea-9553-f42b161a3c9a.PNG)
 
-### Marketing Department
+### Marketing Project
 
 ![marketing](https://user-images.githubusercontent.com/57914889/88213545-7fc44d80-cc76-11ea-8b6a-d7204b1621a4.png)
 
@@ -82,7 +78,7 @@ Link to dataset : https://www.kaggle.com/arjunbhasin2013/ccdata
 
 ![Capture33](https://user-images.githubusercontent.com/57914889/88211969-1ba08a00-cc74-11ea-9e76-8eb6eafdc2d8.PNG)
 
-### Sales Department
+### Sales Project
 
 ![sales](https://user-images.githubusercontent.com/57914889/88213559-8357d480-cc76-11ea-86b6-7e84c7d2be9d.jpg)
 
@@ -106,7 +102,7 @@ Link to dataset : https://www.kaggle.com/c/rossmann-store-sales/data
 
 ![Capture22](https://user-images.githubusercontent.com/57914889/88211954-15121280-cc74-11ea-9ca3-7be544d49882.PNG)
 
-### Public Relations Department
+### Public Relations Project
 
 ![pubrela](https://user-images.githubusercontent.com/57914889/88213556-82bf3e00-cc76-11ea-9e41-6c3b6c5c9bd3.jpg)
 
